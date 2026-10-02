@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Please cite the MISTE manuscript and the upstream models used in your research."
+title: "MISTE: A Pre-Trained Deep Learning Toolbox for Planetary Monocular Image to Surface Topography Estimation"
+type: software
+repository-code: "https://github.com/yutao3/MISTE"
+authors:
+  - family-names: Tao
+    given-names: Yu
+  - family-names: Walter
+    given-names: Sebastian H. G.
+  - family-names: Muller
+    given-names: Jan-Peter
+  - family-names: Xiong
+    given-names: Siting
+preferred-citation:
+  type: unpublished
+  title: "A Pre-Trained Deep Learning Toolbox for Planetary Monocular Image to Surface Topography Estimation (MISTE)"
+  year: 2026
+  authors:
+    - family-names: Tao
+      given-names: Yu
+    - family-names: Walter
+      given-names: Sebastian H. G.
+    - family-names: Muller
+      given-names: Jan-Peter
+    - family-names: Xiong
+      given-names: Siting
