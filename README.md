@@ -4,7 +4,7 @@
 
 MISTE is a research toolbox for generating or refining planetary digital terrain models (DTMs/DEMs) from a single map-projected orbital image and a corresponding lower-resolution reference DTM. The reference provides absolute elevation and broad terrain structure; pre-trained monocular depth estimation models supply image-guided surface detail. The processing framework includes overlapping image tiles, optional inpainting, relative-height inference, georeferencing, reference-constrained postprocessing, mosaicing, and coarse-to-fine multi-scale processing.
 
-MISTE extends the [LISTER toolbox](https://github.com/yutao3/LISTER) to support separate Mars-trained and Moon-trained checkpoints. The accompanying study evaluates Mars and lunar imagery and explores transfer of Moon-trained models to Vesta, Europa, and Enceladus. A checkpoint's training domain is selected independently of the body's map projection: all inputs must retain the correct planetary coordinate reference system.
+MISTE extends the Lunar LISTER work to support separate Mars-trained and Moon-trained checkpoints. The accompanying study evaluates Mars and lunar imagery and explores transfer of Moon-trained models to Vesta, Europa, and Enceladus. A checkpoint's training domain is selected independently of the body's map projection: all inputs must retain the correct planetary coordinate reference system.
 
 ## Source distribution
 
